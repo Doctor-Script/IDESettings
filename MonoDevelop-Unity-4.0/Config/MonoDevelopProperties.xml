@@ -1,0 +1,221 @@
+﻿<MonoDevelopProperties version="2.0">
+  <Property key="MonoDevelop.Core.FirstRun" value="False" />
+  <Property key="MonoDevelop.EnableInstrumentation" value="False" />
+  <Property key="MonoDevelop.Ide.UserInterfaceTheme" value="" />
+  <Property key="MonoDevelop.Ide.UserInterfaceLanguage" value="" />
+  <Property key="MonoDevelop.Ide.DefaultTargetRuntime" value="__current" />
+  <Property key="MonoDevelop.EnableAutomatedTesting" value="False" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.EnginePriority" value="Mono.Debugger.Soft,Mono.Debugger.Soft.Custom,Mono.Debugger.Soft.AspNet,MonoDevelop.Debugger.Soft.Unity" />
+  <Property key="MonoDevelop.Ide.WorkbenchCompactness" value="Normal" />
+  <Property key="FavoriteRecentFiles">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </Property>
+  <Property key="SharpDevelop.Workbench.WorkbenchMemento">
+    <Property key="bounds" value="41, 0, 1260, 687" />
+    <Property key="windowState" value="0" />
+    <Property key="fullscreen" value="False" />
+    <Property key="toolbarStatus">
+      <DockToolbarFrameStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <version>2</version>
+        <layout id="" />
+        <layout id="Solution" />
+        <layout id="Unit Testing" />
+        <layout id="Visual Design" />
+        <layout id="Debug" />
+      </DockToolbarFrameStatus>
+    </Property>
+  </Property>
+  <Property key="ToolboxIsInCompactMode" value="False" />
+  <Property key="SharpDevelop.TaskList.ShowErrors" value="True" />
+  <Property key="SharpDevelop.TaskList.ShowWarnings" value="True" />
+  <Property key="SharpDevelop.TaskList.ShowMessages" value="True" />
+  <Property key="Monodevelop.ErrorListColumns" value="TRUE;TRUE;TRUE;TRUE;TRUE;TRUE;TRUE" />
+  <Property key="SharpDevelop.TaskList.OutputViewVisible" value="False" />
+  <Property key="Monodevelop.UserTasksHighPrioColor" value="rgb:0/0/0" />
+  <Property key="Monodevelop.UserTasksNormalPrioColor" value="rgb:0/0/0" />
+  <Property key="Monodevelop.UserTasksLowPrioColor" value="rgb:0/0/0" />
+  <Property key="Monodevelop.TaskList.ActiveView" value="MonoDevelop.Ide.Tasks.CommentTasksView" />
+  <Property key="Monodevelop.TaskListTokens" value="FIXME:2;TODO:1;HACK:1;UNDONE:0" />
+  <Property key="Monodevelop.CommentTasksColumns" value="True;True;True;True" />
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.ProjectPad" value="1" />
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.MonoDevelop.NUnit.TestPad" value="1" />
+  <Property key="MonoDevelop.Core.Gui.CurrentWorkbenchLayout" value="Solution" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.CheckForUpdates" value="False" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.LastCheck" value="05/06/2018 13:20:08" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateSpanUnit" value="Day" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateSpanValue" value="1" />
+  <Property key="MonoDevelop.Core.Gui.Dialog.TipOfTheDayView.ShowTipsAtStartup" value="False" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateLevel" value="Stable" />
+  <Property key="MonoDevelop.GtkCore.ShowNonContainerWarning" value="True" />
+  <Property key="MonoDevelop.Core.LastRunVersion" value="4.0.1" />
+  <Property key="MonoDevelop.Core.LastRunRevision" value="5" />
+  <Property key="SharpDevelop.LoadPrevProjectOnStartup" value="True" />
+  <Property key="MonoDevelop.Ide.BuildWithMSBuild" value="False" />
+  <Property key="MonoDevelop.Ide.MSBuildVerbosity" value="Normal" />
+  <Property key="TabIsReindent" value="False" />
+  <Property key="EnableSemanticHighlighting" value="True" />
+  <Property key="AutoInsertMatchingBracket" value="False" />
+  <Property key="SmartSemicolonPlacement" value="False" />
+  <Property key="UnderlineErrors" value="True" />
+  <Property key="IndentStyle" value="Smart" />
+  <Property key="ShowLineNumberMargin" value="True" />
+  <Property key="ShowFoldMargin" value="True" />
+  <Property key="HighlightCaretLine" value="False" />
+  <Property key="EnableSyntaxHighlighting" value="True" />
+  <Property key="HighlightMatchingBracket" value="True" />
+  <Property key="ShowRuler" value="True" />
+  <Property key="FontName" value="Mono 10" />
+  <Property key="ColorScheme" value="Default" />
+  <Property key="DefaultRegionsFolding" value="True" />
+  <Property key="DefaultCommentFolding" value="True" />
+  <Property key="UseViModes" value="False" />
+  <Property key="OnTheFlyFormatting" value="False" />
+  <Property key="HideObsoleteItems" value="True" />
+  <Property key="ControlLeftRightMode" value="MonoDevelop" />
+  <Property key="EnableAnimations" value="True" />
+  <Property key="UseAntiAliasing" value="True" />
+  <Property key="EnableHighlightUsages" value="True" />
+  <Property key="DrawIndentationMarkers" value="False" />
+  <Property key="LineEndingConversion" value="Ask" />
+  <Property key="ShowWhitespaces" value="Selection" />
+  <Property key="WrapLines" value="False" />
+  <Property key="EnableQuickDiff" value="False" />
+  <Property key="MonoDevelop.AnalysisCore.AnalysisEnabled" value="False" />
+  <Property key="ScrollBar.Mode" value="Overview" />
+  <Property key="MonoDevelop.Ide.NewShowMessageBubbles" value="ForErrorsAndWarnings" />
+  <Property key="SharpDevelop.LoadDocumentProperties" value="True" />
+  <Property key="EnableCodeCompletion" value="True" />
+  <Property key="EnableParameterInsight" value="True" />
+  <Property key="EnableAutoCodeCompletion" value="True" />
+  <Property key="XmlEditor.AddIn.Options">
+    <Property key="ShowSchemaAnnotation" value="False" />
+    <Property key="AutoCompleteElements" value="False" />
+    <Property key="AutoInsertFragment" value="False" />
+  </Property>
+  <Property key="MonoDevelop.DesignerSupport.ClassOutline.IsGrouped" value="False" />
+  <Property key="MonoDevelop.DesignerSupport.ClassOutline.IsSorted" value="False" />
+  <Property key="MonoDevelop.DesignerSupport.ClassOutline.GroupOrder" value="" />
+  <Property key="MonoDevelop.DefaultFileFormat" value="MSBuild10" />
+  <Property key="SharpDevelop.CreateBackupCopy" value="False" />
+  <Property key="AutoFormatDocumentOnSave" value="False" />
+  <Property key="MonoDevelop.FindReplaceDialogs.FindHistory" value="SlimCollider&#xA;DEBUG_CORE&#xA;GeneratePoint&#xA;LerpCompensator&#xA;Press&#xA;Enumerator&#xA;coastMask&#xA;waveXCos&#xA;pos&#xA;vert&#xA;_WaveHeight&#xA;IBaseHandler&#xA;Update&#xA;BeginToPointProjection&#xA; direction&#xA;startPoint&#xA;lineStart&#xA;circleToBegin&#xA;GIShipRaySelectable" />
+  <Property key="MonoDevelop.FindReplaceDialogs.ReplaceHistory" value="TCollider&#xA;AdSize&#xA;AShipRaySelectable&#xA;AShipRayWeapon&#xA;AShipRaySelector&#xA;ShipSelector&#xA;ISelectUnit&#xA;ISelectWeapon&#xA;tractionFactor&#xA;traction&#xA;torqueFactor&#xA;isMainRotorActive&#xA;sidewaysMultiplier&#xA;forwardMultiplier&#xA;catchWolf&#xA;ItemSize&#xA;&#xA;factory.GetSizes&#xA;factory.GetSizes()" />
+  <Property key="BufferSearchEngine" value="default" />
+  <Property key="AutoSetPatternCasing" value="True" />
+  <Property key="IsCaseSensitive" value="True" />
+  <Property key="IsWholeWordOnly" value="False" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.AssignmentMadeToSameVariableIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.BitwiseOperationOnNonFlagsEnumIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.CastExpressionOfIncompatibleTypeIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.CompareBooleanWithTrueOrFalseIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.CompareFloatWithEqualityOperatorIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ConstantConditionIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.DoubleNegationIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ExpressionIsAlwaysOfProvidedTypeIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ExpressionIsNeverOfProvidedTypeIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.MethodNeverReturnsIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.MethodOverloadHidesOptionalParameterIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.MissingStringComparisonIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.NegativeRelationalExpressionIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ExplicitConversionInForEachIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ForControlVariableNotModifiedIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.IdenticalConditionalBranchIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.MultipleEnumerationIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantArrayInitializerCommaIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantAssignmentIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantAttributeParenthesesIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantCaseLabelIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantElseIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantFieldInitializerIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantObjectCreationArgumentListIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantObjectOrCollectionInitializerIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantTypeCastIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ReferenceEqualsCalledWithValueTypeIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ResultOfAsyncCallShouldNotBeIgnoredIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.UnreachableCodeIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.LocalVariableHidesMemberIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ParameterHidesMemberIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.LocalVariableNotUsedIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ParameterNotUsedIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.TypeParameterNotUsedIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ParameterOnlyAssignedIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ConditionalToNullCoalescingIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.NotImplementedExceptionIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantInternalIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantNamespaceUsageIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantPrivateIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantThisIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantUsingIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.StringIsNullOrEmptyIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.UseVarKeywordIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.InconsistentNamingIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.IncorrectExceptionParameterOrderingIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.CallToVirtualFunctionFromConstructorIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ValueParameterUnusedIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.VariableDeclaredInWideScopeIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ParameterCanBeDemotedIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ReferenceToStaticMemberViaDerivedTypeIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.OptionalParameterCouldBeSkippedIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantCatchIssue" value="Hint" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantToStringIssue" value="Suggestion" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.CallToObjectEqualsViaBaseIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.IncorrectCallToObjectGetHashCodeIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.FormatStringIssue" value="Error" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ExceptionRethrowIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.ThreadStaticOnInstanceFieldIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.StaticFieldInGenericTypeIssue" value="Warning" />
+  <Property key="refactoring.codeissues.text/x-csharp.ICSharpCode.NRefactory.CSharp.Refactoring.RedundantWhereWithPredicateIssue" value="Hint" />
+  <Property key="ContextActions.text/x-csharp" value="" />
+  <Property key="MonoDevelop.Ide.DefaultHideMessageBubbles" value="False" />
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.ClassPad" value="1" />
+  <Property key="MonoDevelop.Debugger.Soft.Unity.UnityLocation" value="C:\Program Files\Unity\Editor\Unity.exe" />
+  <Property key="MonoDevelop.Projects.GlobalPolicyMimeTypes" value="" />
+  <Property key="Author.Copyright" value="DoctorScript" />
+  <Property key="Author.Company" value="" />
+  <Property key="Author.Trademark" value="" />
+  <Property key="Author.Name" value="DoctorScript" />
+  <Property key="Author.Email" value="" />
+  <Property key="Monodevelop.FileSelector.LastPattern" value="*" />
+  <Property key="MonoDevelop.Core.Gui.Dialogs.NewProjectDialog.DefaultPath" value="C:\Documents and Settings\9Lives\Мои документы" />
+  <Property key="MonoDevelop.Ide.SelectEncodingsDialog.ConversionEncodings" value="65001,28605,1200" />
+  <Property key="MonoDevelop.FileSelector.LastPath" value="D:\GameDev\DSLibs\DSGamesCore\CSharp" />
+  <Property key="MonoDevelop.LogAgent.ReportCrashes" value="False" />
+  <Property key="MonoDevelop.Ide.BeforeCompileAction" value="SaveAllFiles" />
+  <Property key="MonoDevelop.Ide.NewShowErrorPadAfterBuild" value="Never" />
+  <Property key="MonoDevelop.Ide.NewJumpToFirstErrorOrWarning" value="Error" />
+  <Property key="MonoDevelop.Ide.BuildBeforeExecuting" value="True" />
+  <Property key="MonoDevelop.Debugger.Soft.Unity.BuildUnity" value="True" />
+  <Property key="MonoDevelop.Ide.RunWithWarnings" value="True" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.AllowTargetInvoke" value="True" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.AllowToStringCalls" value="True" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.EvaluationTimeout" value="2500" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.FlattenHierarchy" value="False" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.GroupPrivateMembers" value="True" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.GroupStaticMembers" value="True" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.StepOverPropertiesAndOperators" value="True" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.ProjectAssembliesOnly" value="True" />
+  <Property key="MonoDevelop.Debugger.Soft.Unity.LaunchUnity" value="True" />
+  <Property key="MonoDevelop.Projects.Text.ConversionEncodings" value="" />
+  <Property key="AssemblyBrowser.InspectLanguage" value="2" />
+  <Property key="Dialogs.NewFileDialog.LastSelectedCategory" value="General" />
+  <Property key="MonoDevelop.Core.Gui.EnableDocumentSwitchDialog" value="False" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.TestMode" value="" />
+  <Property key="MonoDevelop.Core.Assemblies.UserAssemblyContext">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </Property>
+  <Property key="MainToolbar.Search.IncludeMembers" value="True" />
+  <Property key="MonoDevelop.FindReplaceDialogs.SearchOptions">
+    <Property key="Scope" value="1" />
+    <Property key="IncludeBinaryFiles" value="False" />
+    <Property key="IncludeHiddenFiles" value="False" />
+    <Property key="MonoDevelop.FindReplaceDialogs.FileMask" value="" />
+    <Property key="CaseSensitive" value="True" />
+    <Property key="WholeWordsOnly" value="False" />
+    <Property key="RegexSearch" value="False" />
+  </Property>
+  <Property key="MonoDevelop.VersionControl.Git.UseRebaseOptionWhenPulling" value="True" />
+  <Property key="MonoDevelop.VersionControl.Git.StashUnstashWhenUpdating" value="True" />
+  <Property key="MonoDevelop.VersionControl.Git.StashUnstashWhenSwitchingBranches" value="True" />
+  <Property key="FontProperties" />
+  <Property key="MonoDevelop.TextEditor.Document.Document.DefaultDocumentAggregatorProperties" />
+</MonoDevelopProperties>
