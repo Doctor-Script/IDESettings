@@ -1,0 +1,93 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "f5",
+        "command": "-workbench.action.debug.continue",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f5",
+        "command": "-workbench.action.debug.start",
+        "when": "!inDebugMode"
+    },
+    {
+        "key": "f5",
+        "command": "workbench.action.debug.stepInto",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f11",
+        "command": "-workbench.action.debug.stepInto",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f7",
+        "command": "workbench.action.debug.stepOut",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "shift+f11",
+        "command": "-workbench.action.debug.stepOut",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f6",
+        "command": "workbench.action.debug.stepOver",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f10",
+        "command": "-workbench.action.debug.stepOver",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f8",
+        "command": "-editor.action.marker.nextInFiles",
+        "when": "editorFocus && !editorReadonly"
+    },
+    {
+        "key": "f8",
+        "command": "workbench.action.debug.continue",
+        "when": "editorFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+r",
+        "command": "-editor.action.refactor",
+        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+r",
+        "command": "-workbench.action.quickOpenNavigatePreviousInRecentFilesPicker",
+        "when": "inQuickOpen && inRecentFilesPicker"
+    },
+    {
+        "key": "ctrl+o",
+        "command": "-workbench.action.files.openFile"
+    },
+    {
+        "key": "ctrl+o",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "-workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+shift+r",
+        "command": "workbench.action.showAllSymbols"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "-workbench.action.showAllSymbols"
+    },
+    {
+        "key": "ctrl+alt+h",
+        "command": "editor.action.referenceSearch.trigger",
+        "when": "editorHasReferenceProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    },
+    {
+        "key": "shift+f12",
+        "command": "-editor.action.referenceSearch.trigger",
+        "when": "editorHasReferenceProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    }
+]
