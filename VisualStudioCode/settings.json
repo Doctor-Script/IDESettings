@@ -1,4 +1,37 @@
 {
     // Show '1 refernce'
-    "editor.codeLens": false
+    "editor.codeLens": false,
+
+    "files.autoSave": "off",
+
+    "editor.tokenColorCustomizations":
+    {
+        "[Visual Studio Dark]":
+        {
+            
+            "variables": "#ffe6d3",
+            "types": "#b9b9b9"
+
+        }
+    },
+    
+    "workbench.colorCustomizations":
+    {
+        "[Monokai]":
+        {
+            "editor.wordHighlightBackground": "#484ad3",
+
+            // StatusBar on Debug
+            "statusBar.background": "#007ACC",
+            "statusBar.debuggingBackground": "#CC6633",
+
+            // Refereces color
+            "editorCodeLens.foreground":"#5e5e5e",
+
+            // Refereces box
+            "peekViewEditor.background": "#001F33",
+            "peekView.border": "#007ACC"
+        }
+    },
+    "workbench.colorTheme": "Monokai"
 }
