@@ -1,37 +1,47 @@
 {
-    // Show '1 refernce'
-    "editor.codeLens": false,
+	"git.enabled": false,
+	"git.ignoreMissingGitWarning": true,
+	"files.autoSave": "off",
 
-    "files.autoSave": "off",
+	"editor.tokenColorCustomizations": {
+		"[Visual Studio Dark]": {
+			"variables": "#ffe6d3",
+			"types": "#b9b9b9"
+		}
+	},
 
-    "editor.tokenColorCustomizations":
-    {
-        "[Visual Studio Dark]":
-        {
-            
-            "variables": "#ffe6d3",
-            "types": "#b9b9b9"
+	"workbench.colorCustomizations": {
+		"[Monokai]": {
+		// "editor.wordHighlightBackground": "#484ad3"
+		"editor.wordHighlightBackground": "#484ad3",
 
-        }
-    },
-    
-    "workbench.colorCustomizations":
-    {
-        "[Monokai]":
-        {
-            "editor.wordHighlightBackground": "#484ad3",
+		// StatusBar on Debug
+		"statusBar.background": "#007ACC",
+		"statusBar.debuggingBackground": "#CC6633",
 
-            // StatusBar on Debug
-            "statusBar.background": "#007ACC",
-            "statusBar.debuggingBackground": "#CC6633",
+		// Refereces color
+		"editorCodeLens.foreground":"#5e5e5e",
 
-            // Refereces color
-            "editorCodeLens.foreground":"#5e5e5e",
+		// Refereces box
+		"peekViewEditor.background": "#001F33",
+		"peekView.border": "#007ACC"
+		}
+	},
+	"workbench.colorTheme": "Monokai",
 
-            // Refereces box
-            "peekViewEditor.background": "#001F33",
-            "peekView.border": "#007ACC"
-        }
-    },
-    "workbench.colorTheme": "Monokai"
+	"editor.renderWhitespace": "all",
+
+	// The number of spaces a tab is equal to. This setting is overriden
+	// based on the file contents when `editor.detectIndentation` is true.
+	"editor.tabSize": 4,
+
+	// Insert spaces when pressing Tab. This setting is overriden
+	// based on the file contents when `editor.detectIndentation` is true.
+	"editor.insertSpaces": false,
+
+	// When opening a file, `editor.tabSize` and `editor.insertSpaces`
+	// will be detected based on the file contents. Set to false to keep
+	// the values you've explicitly set, above.
+	"editor.detectIndentation": false,
+	"editor.codeLens": false
 }
