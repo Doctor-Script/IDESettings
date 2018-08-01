@@ -132,7 +132,7 @@
         "command": "workbench.action.debug.start"
     },
     {
-        // https://marketplace.visualstudio.com/items?itemName=rebornix.toggle
+		// https://marketplace.visualstudio.com/items?itemName=rebornix.toggle
         "key": "ctrl+l",
         "command": "toggle",
         "when": "editorTextFocus",
@@ -147,5 +147,9 @@
                 }
             ]
         }
-    }
+	},
+	{
+		"key": "ctrl+numpad_multiply",
+		"command": "workbench.files.action.refreshFilesExplorer"
+	}
 ]

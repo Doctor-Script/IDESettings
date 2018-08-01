@@ -12,13 +12,46 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"DS Unity log": {
+	"Javastyle Unity log": {
 		"prefix": "syso",
 		"body": "Debug.Log($1);"
 	},
 
-	"DS Unity log Error": {
+	"DS Unity log": {
+		"prefix": "DL",
+		"body": "Debug.Log($1);"
+	},
+
+	"Javastyle Unity log Error": {
 		"prefix": "syse",
 		"body": "Debug.LogError($1);"
+    },
+    
+    "DS Unity log Error": {
+		"prefix": "DE",
+		"body": "Debug.LogError($1);"
+	},
+
+	"Unity OnDestroy":
+	{
+		"prefix": "OnDe",
+		"body":
+		[
+			"void OnDestroy() {",
+			"\t$1",
+			"}"
+		]
+	},
+
+	"Unity OnApplicationQuit":
+	{
+		"prefix": "OnA",
+		"body":
+		[
+			"void OnApplicationQuit() {",
+			"\t$1",
+			"}"
+		]
 	}
+
 }
