@@ -19,7 +19,7 @@
 
 	"DS Unity log": {
 		"prefix": "DL",
-		"body": "Debug.Log($1);"
+		"body": "UnityEngine.Debug.Log($1);"
 	},
 
 	"Javastyle Unity log Error": {
@@ -29,7 +29,7 @@
     
     "DS Unity log Error": {
 		"prefix": "DE",
-		"body": "Debug.LogError($1);"
+		"body": "UnityEngine.Debug.LogError($1);"
 	},
 
 	"Unity OnDestroy":
@@ -52,6 +52,49 @@
 			"\t$1",
 			"}"
 		]
-	}
+	},
+
+	"Test snipet":
+	{
+		"prefix": "tst",
+		"body": "UnityEngine.Debug.LogError(${TM_SELECTED_TEXT});"
+	},
+
+	"Override":
+	{
+		"prefix": "over",
+		"body": [
+			"${1|public,protected|} override $2($3) {",
+			"\tbase.$2($3);$0",
+			"}"
+		]
+	},
+
+	"For int":
+	{
+		"prefix": "fori",
+		"body": [
+			"for (int i = 0; i < $1; i++) {",
+			"\t$2",
+			"}"
+		]
+	},
+
+	"For each":
+	{
+		"prefix": "fore",
+		"body": [
+			"foreach (${1:var} ${2:element} in ${3:collection}) {",
+			"\t$0",
+			"}"
+		]
+	},
+
+	"NotImplemented":
+	{
+		"prefix": "thrUnImp",
+		"body": "throw new System.NotImplementedException();"
+	},
+	
 
 }
