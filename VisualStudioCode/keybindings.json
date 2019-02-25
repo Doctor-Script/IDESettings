@@ -151,5 +151,67 @@
 	{
 		"key": "ctrl+numpad_multiply",
 		"command": "workbench.files.action.refreshFilesExplorer"
+	},
+	{
+		"key": "ctrl+shift+s",
+		"command": "-workbench.action.files.saveAs"
+	},
+	{
+		"key": "ctrl+shift+s",
+		"command": "workbench.action.files.saveAll"
+	},
+	{
+		"key": "ctrl+k s",
+		"command": "-workbench.action.files.saveAll"
+	},
+	{
+		"key": "ctrl+shift+alt+up",
+		"command": "editor.action.insertCursorAbove",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+up",
+		"command": "-editor.action.insertCursorAbove",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+alt+up",
+		"command": "-cursorColumnSelectUp",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "ctrl+shift+alt+down",
+		"command": "-cursorColumnSelectDown",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "ctrl+shift+alt+down",
+		"command": "editor.action.insertCursorBelow",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+down",
+		"command": "-editor.action.insertCursorBelow",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+up",
+		"command": "editor.action.copyLinesUpAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "shift+alt+up",
+		"command": "-editor.action.copyLinesUpAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+alt+down",
+		"command": "editor.action.copyLinesDownAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "shift+alt+down",
+		"command": "-editor.action.copyLinesDownAction",
+		"when": "editorTextFocus && !editorReadonly"
 	}
 ]

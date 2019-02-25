@@ -19,7 +19,7 @@
 
 	"DS Unity log": {
 		"prefix": "DL",
-		"body": "Debug.Log($1);"
+		"body": "UnityEngine.Debug.Log($1);"
 	},
 
 	"Javastyle Unity log Error": {
@@ -29,7 +29,7 @@
     
     "DS Unity log Error": {
 		"prefix": "DE",
-		"body": "Debug.LogError($1);"
+		"body": "UnityEngine.Debug.LogError($1);"
 	},
 
 	"Unity OnDestroy":
@@ -52,6 +52,26 @@
 			"\t$1",
 			"}"
 		]
-	}
+	},
+
+	"Throw Invalid":
+	{
+		"prefix": "throw Invalid",
+		"body": "throw new System.InvalidOperationException($1);$0",
+		"description": "Throw in any incomprehensible situation =)"
+	},
+
+	"Getter":
+	{
+		"prefix": "gettercs",
+		"body":
+		[
+			"public $1 {",
+			"\tget {",
+			"\t\t return $2;",
+			"\t}",
+			"}"
+		]
+	},
 
 }
