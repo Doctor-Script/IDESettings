@@ -46,6 +46,10 @@
 	"workbench.colorTheme": "Monokai",
 	
 	// "editor.cursorSmoothCaretAnimation": true
+	"csharp.format.enable": false,
 
-	"editor.rulers": [100]
+	// "csharp.suppressHiddenDiagnostics": false
+
+	"csharpfixformat.style.enabled": false,
+	"editor.rulers": [100],
 }
