@@ -26,3 +26,6 @@ Unity.unity-debug@1.3.0
 ```
 
 For automatic install run [UnityExtensionInstaller.bat](UnityExtensionInstaller.bat).
+
+## Currently, installed plugins look like this:
+![Alt text](../_Images/vs-code-plugins.jpg?raw=true "C# Plugins")
