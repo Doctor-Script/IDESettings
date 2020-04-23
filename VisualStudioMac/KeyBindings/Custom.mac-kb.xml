@@ -30,7 +30,7 @@
     <binding command="MonoDevelop.Refactoring.RefactoryCommands.FindReferences" shortcut="Alt+Meta+H Control+Alt+H" />
     <binding command="MonoDevelop.Ide.CodeFormatting.CodeFormattingCommands.FormatSelection" shortcut="Control+Alt+F" />
     <binding command="MonoDevelop.Ide.Commands.ProjectCommands.Build" shortcut="Meta+B Control+B" />
-    <binding command="MonoDevelop.Ide.Commands.SearchCommands.GotoType" shortcut="Control+Shift+R Shift+Meta+R" />
+    <binding command="MonoDevelop.Ide.Commands.SearchCommands.GotoType" shortcut="" />
     <binding command="MonoDevelop.Refactoring.RefactoryCommands.GotoDeclaration" shortcut="F3" />
     <binding command="MonoDevelop.Ide.Commands.HelpCommands.Help" shortcut="" />
     <binding command="MonoDevelop.Ide.Commands.SearchCommands.FindNext" shortcut="" />
@@ -90,5 +90,6 @@
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.OpenDocument7" shortcut="" />
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.OpenDocument8" shortcut="" />
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.OpenDocument9" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.SearchCommands.GotoFile" shortcut="Shift+Meta+R Control+Shift+R" />
   </scheme>
 </schemes>
