@@ -91,5 +91,6 @@
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.OpenDocument8" shortcut="" />
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.OpenDocument9" shortcut="" />
     <binding command="MonoDevelop.Ide.Commands.SearchCommands.GotoFile" shortcut="Shift+Meta+R Control+Shift+R" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ShowCompletionWindow" shortcut="Control+Space Meta+Space" />
   </scheme>
 </schemes>
