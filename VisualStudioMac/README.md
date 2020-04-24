@@ -10,6 +10,8 @@ Generally config files may be found in next folders:
 ## Key Bindings
 Copy [KeyBindings/Custom.mac-kb.xml](./KeyBindings/Custom.mac-kb.xml) to `~/Library/VisualStudio/8.0/KeyBindings/`
 
+In order to use remaped **ctrl+space** you need to disable **Spotlight** use this shortcut. Navigate to `System Preferences -> Spotlight -> Keyboard shortcuts...` and disable or remap corresponding shortcuts.
+
 ## Snippets
 Copy files from [Snippets](./Snippets/) folder to `~/Library/VisualStudio/8.0/Snippets/`
 
