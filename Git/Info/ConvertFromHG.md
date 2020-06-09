@@ -29,7 +29,7 @@ Success tested system versions:
 - __git__ version 2.17.1.windows.2
 
 ## Converting
-
+All this commands better to be run in a Git Bash
 1. Create new git repo at Bitbucket.
 2. `git clone git://repo.or.cz/fast-export.git`
 3. `mkdir new_git_repo`
