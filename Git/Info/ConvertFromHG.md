@@ -42,8 +42,9 @@ All this commands better to be run in a Git Bash
 4. `git init`
 5. `/path/to/hg-fast-export.sh -r /path/to/hg_repo`
 6. `git checkout HEAD`
-7. `git remote add origin git@bitbucket.org:shaharevron/myproject.git`
-8. `git push origin master`
+7. `git remote add origin https://user_name@bitbucket.org/user_name/repo_name.git`  
+8. `git push origin master`  
+**NOTE:** For the last two items (7, 8) Github and Bitbucket will show appropriative commands while your repository is empty.
 
 ## Another way
 
