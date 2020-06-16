@@ -20,7 +20,11 @@ Otherwise, you will get *ImportError: No module named mercurial* error. Read mor
 
 3. Add the PYTHON environment variable. Otherwise, git bash may throw an error and explicitly request it.  
 Variable name: `PYTHON`  
-Variable value: `C:\Users\%USERNAME%\AppData\Local\Programs\Python\Python38-32\python.exe`
+Variable value: `C:\Users\<YOUR_USER_NAME>\AppData\Local\Programs\Python\Python38-32\python.exe`  
+Replace `<YOUR_USER_NAME>` with real username in your system.  
+
+**WARNING:** You can not use `%USERNAME%` variable because it appears set to `SYSTEM`    
+**NOTE:** You can find the exact path of Python by `where python` console command.  
 
 4. `git clone git://repo.or.cz/fast-export.git`
 
