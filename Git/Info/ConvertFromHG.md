@@ -22,6 +22,8 @@ Otherwise, you will get *ImportError: No module named mercurial* error. Read mor
 Variable name: `PYTHON`  
 Variable value: `C:\Users\%USERNAME%\AppData\Local\Programs\Python\Python38-32\python.exe`
 
+4. `git clone git://repo.or.cz/fast-export.git`
+
 ## System
 Success tested system versions:  
 - __Windows__ [Version 10.0.17134.1488]  
@@ -31,14 +33,13 @@ Success tested system versions:
 ## Converting
 All this commands better to be run in a Git Bash
 1. Create new git repo at Bitbucket.
-2. `git clone git://repo.or.cz/fast-export.git`
-3. `mkdir new_git_repo`
-4. `cd new_git_repo`
-5. `git init`
-6. `/path/to/hg-fast-export.sh -r /path/to/hg_repo`
-7. `git checkout HEAD`
-8. `git remote add origin git@bitbucket.org:shaharevron/myproject.git`
-9. `git push origin master`
+2. `mkdir new_git_repo`
+3. `cd new_git_repo`
+4. `git init`
+5. `/path/to/hg-fast-export.sh -r /path/to/hg_repo`
+6. `git checkout HEAD`
+7. `git remote add origin git@bitbucket.org:shaharevron/myproject.git`
+8. `git push origin master`
 
 ## Another way
 
