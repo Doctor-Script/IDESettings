@@ -2,5 +2,5 @@
 
 You can find old version on the official [Rider website](https://www.jetbrains.com/rider/download/other.html)
 
-Instalation:
-- [Mac](InstallMacFree/README.md)
+
+[The installation](InstallFree/README.md) process is the same for **Windows** and **Mac**!

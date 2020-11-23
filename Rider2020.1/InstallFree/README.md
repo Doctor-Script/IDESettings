@@ -1,10 +1,8 @@
 # Instalation to the Mac
 
-In general, recommendations are the same as for Windows. You can find it with the pack below. 
-
 - [Download Rider 2020.1 for Mac](https://download.jetbrains.com/rider/JetBrains.Rider-2020.1.0.dmg?_ga=2.100602910.1458451395.1606140587-2115243255.1599582131) from JetBrains website.
 - Install the Rider.
-- [Download the pack](https://rutracker.net/forum/viewtopic.php?t=5884329). Actually, you need only `jetbrains-agent.jar`.
+- [Download the pack](https://rutracker.net/forum/viewtopic.php?t=5884329). Actually, you need only `jetbrains-agent.jar`. Also, you can find there the original installation instruction.
 - Launch the Rider. Agree Licence and pass all of the settings steps. Until you see the window below.
 - Select `Evaluate for free` and click `Evaluate`.  
 ![Evalutate Free](images/EvalutateFree.png?raw=true "Evalutate Free")
