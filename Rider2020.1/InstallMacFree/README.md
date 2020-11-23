@@ -17,3 +17,5 @@ In general, recommendations are the same as for Windows. You can find it with th
 ![Install Licence Server](images/InstallLicenceServer.png?raw=true "Install Licence Server")
 - Restart the Rider.
 - You are done.
+- If everything is done well go `JetBrains Rider -> About JetBrains` and see `Licensed to <your_name>`.  
+![Result](images/Result.png?raw=true "Result")
