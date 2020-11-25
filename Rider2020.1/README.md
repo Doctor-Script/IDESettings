@@ -22,5 +22,17 @@ Older versions info you can fin [here](https://www.jetbrains.com/help/idea/2019.
 Applying `.jar` settings work perfectly for clear Rider. But if you've already got some settings in the Rider it may cause some weird effects like a broken color scheme etc.
 To avoid fixing the effects, if you've changed only the keymaps use the XML file directly. 
 
-Paste XML keybindings file to:
-- Mac: `~/Library/Application Support/JetBrains/Rider2020.1/keymaps`
+1. Shutdown the Rider.
+1. Paste [XML keybindings file](DSEclipse.xml) to:
+	- Mac: `~/Library/Application Support/JetBrains/Rider2020.1/keymaps`
+	- Win: `%APPDATA%\JetBrains\Rider2020.1\keymaps`
+1. Start the Rider.
+
+## Logs
+More information [here](https://rider-support.jetbrains.com/hc/en-us/articles/360001079770-How-to-collect-Rider-logs-)
+### Win
+In the Rider do `Help -> Diagnostic Tools -> Show Log in Exploer`.  
+Or go `%LOCALAPPDATA%\JetBrains\Rider2020.1\log` and find `idea.log`
+### Mac
+In the Rider do `Help -> Diagnostic Tools -> Show Log in Finder`.  
+Or go `~/Library/Logs/JetBrains/Rider2020.1/` and find `idea.log`
