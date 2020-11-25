@@ -17,3 +17,10 @@ Older versions info you can fin [here](https://www.jetbrains.com/help/idea/2019.
 
 ## Import settings
 `File -> Import Settings...` locate to .jar, OK
+
+## Changing the keymaps only
+Applying `.jar` settings work perfectly for clear Rider. But if you've already got some settings in the Rider it may cause some weird effects like a broken color scheme etc.
+To avoid fixing the effects, if you've changed only the keymaps use the XML file directly. 
+
+Paste XML keybindings file to:
+- Mac: `~/Library/Application Support/JetBrains/Rider2020.1/keymaps`
