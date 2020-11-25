@@ -39,4 +39,8 @@ Or go `~/Library/Logs/JetBrains/Rider2020.1/` and find `idea.log`
 
 
 ## Mac
-In order to use `Ctrl + Alt + H`. By default this shortcut used by the system for `Hide/Hide Others` command. Open `System Preferences -> Keyboard -> Shortcuts -> App Shortcuts` and then click `+`. Enter the command name exactly as in top menu ( `Hide JetBrains Rider` and `Hide Others`) and enter new shortcuts (f.e. `Alt + Tab` and `Shift + Alt + Tab`)([More](https://superuser.com/questions/1043596/mac-osx-remove-hide-window-keyboard-shortcut)).
+![Hide Rider Menu](images/HideRiderMenu.png?raw=true "Hide Rider Menu")  
+In order to use `Ctrl + Alt + H`. By default this shortcut used by the system for `Hide/Hide Others` command. 
+
+![Hide Rider Settings](images/HideRiderSettings.png?raw=true "Hide Rider Settings")
+Open `System Preferences -> Keyboard -> Shortcuts -> App Shortcuts` and then click `+`. Enter the command name exactly as in top menu ( `Hide JetBrains Rider` and `Hide Others`) and enter new shortcuts (f.e. `Alt + Tab` and `Shift + Alt + Tab`)([More](https://superuser.com/questions/1043596/mac-osx-remove-hide-window-keyboard-shortcut)).
